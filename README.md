@@ -1,0 +1,1 @@
+# pentacube-microservices-config
